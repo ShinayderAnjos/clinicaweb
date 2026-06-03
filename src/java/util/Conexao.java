@@ -9,7 +9,7 @@ public class Conexao {
             "jdbc:postgresql://localhost:5432/clinica";
 
     private static final String USUARIO = "postgres";
-    private static final String SENHA = "12345678";
+    private static final String SENHA = "";
 
     public static Connection conectar() throws Exception {
 
